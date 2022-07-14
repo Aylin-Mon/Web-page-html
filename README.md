@@ -1,2 +1,2 @@
 # Web-page-html
-Pagina web personal con html 
+Página web personal con html 
